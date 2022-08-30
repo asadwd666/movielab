@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movielab%20/static/css/main.334bdeb1.css",
+    "main.js": "/movielab%20/static/js/main.5d52e54b.js",
+    "index.html": "/movielab%20/index.html",
+    "static/media/search.svg": "/movielab%20/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/movielab%20/static/css/main.334bdeb1.css.map",
+    "main.5d52e54b.js.map": "/movielab%20/static/js/main.5d52e54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.5d52e54b.js"
+  ]
+}
